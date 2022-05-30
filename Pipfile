@@ -10,6 +10,7 @@ pandas = "*"
 scipy = "*"
 pylops = "*"
 matplotlib = "*"
+statsmodels = "*"
 
 [dev-packages]
 
