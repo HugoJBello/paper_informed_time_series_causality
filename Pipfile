@@ -11,6 +11,7 @@ scipy = "*"
 pylops = "*"
 matplotlib = "*"
 statsmodels = "*"
+sklearn = "*"
 
 [dev-packages]
 
