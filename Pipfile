@@ -12,6 +12,7 @@ pylops = "*"
 matplotlib = "*"
 statsmodels = "*"
 sklearn = "*"
+networkx = "*"
 
 [dev-packages]
 
